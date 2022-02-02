@@ -1,11 +1,11 @@
-package base.data.structures.task12;
+package base.data.structures.chapter1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class Task1_2_4 {
+public class Task1_4 {
 
     private static final BufferedReader READER = new BufferedReader(
             new InputStreamReader(System.in));

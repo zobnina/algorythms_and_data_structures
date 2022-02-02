@@ -1,4 +1,4 @@
-package base.data.structures.task12;
+package base.data.structures.chapter1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-public class Task1_2_2 {
+public class Task1_2 {
 
     private static final String SP = " ";
 

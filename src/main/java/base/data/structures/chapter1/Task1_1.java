@@ -1,4 +1,4 @@
-package base.data.structures.task12;
+package base.data.structures.chapter1;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Map;
 import java.util.Stack;
 
-public class Task1_2_1 {
+public class Task1_1 {
 
     private static final Map<Character, Character> PAIRS = Map.of(
             '(', ')',
