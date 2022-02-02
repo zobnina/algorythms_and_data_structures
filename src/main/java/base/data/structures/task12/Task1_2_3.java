@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.LinkedList;
 
-public class Task1_2 {
+public class Task1_2_3 {
 
     private static final BufferedReader READER = new BufferedReader(
             new InputStreamReader(System.in));
