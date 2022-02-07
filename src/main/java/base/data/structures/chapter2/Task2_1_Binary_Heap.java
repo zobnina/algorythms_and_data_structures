@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.Map;
 
-public class Task2_1 {
+public class Task2_1_Binary_Heap {
 
     private static final BufferedReader READER = new BufferedReader(
             new InputStreamReader(System.in));

@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.Map;
 import java.util.Stack;
 
-public class Task1_5 {
+public class Task1_5_Max_In_Moving_Section {
 
     private static final BufferedReader READER = new BufferedReader(new InputStreamReader(System.in));
 

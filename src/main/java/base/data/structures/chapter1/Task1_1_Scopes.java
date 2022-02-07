@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Map;
 import java.util.Stack;
 
-public class Task1_1 {
+public class Task1_1_Scopes {
 
     private static final Map<Character, Character> PAIRS = Map.of(
             '(', ')',

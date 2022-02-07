@@ -9,7 +9,7 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 
-public class Task1_2 {
+public class Task1_2_Tree_Height {
 
     private static final String SP = " ";
 

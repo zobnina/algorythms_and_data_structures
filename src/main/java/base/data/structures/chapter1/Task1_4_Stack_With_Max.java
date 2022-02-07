@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Stack;
 
-public class Task1_4 {
+public class Task1_4_Stack_With_Max {
 
     private static final BufferedReader READER = new BufferedReader(
             new InputStreamReader(System.in));

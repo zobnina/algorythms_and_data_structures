@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Arrays;
 import java.util.PriorityQueue;
 
-public class Task2_2 {
+public class Task2_2_Priority_Queue {
 
     private static final BufferedReader READER = new BufferedReader(
             new InputStreamReader(System.in));
